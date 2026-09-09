@@ -64,7 +64,7 @@ The primary goal is to establish a safe, repeatable, and strictly controlled pla
 
 ### 
 
-### **Phase 4: Optional Target VM Provisioning**
+### **Phase 4: Target VM Provisioning**
 
 > 1. **Windows 11 Target:** Provisioned with 4 GB RAM, attached to NatNetwork, and assigned static IP 10.0.0.11  
 > 2. **Windows 10 Target:** Provisioned with 2 GB RAM, attached to NatNetwork, and assigned static IP 10.0.0.10  
