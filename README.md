@@ -23,16 +23,6 @@ The primary goal is to establish a safe, repeatable, and strictly controlled pla
 * Validate external internet routing and DNS resolution.  
 * Capture clean system snapshots for every VM node to establish reliable recovery baselines.
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## **Complete Environment Specifications**
 
 | Node / Category | System Type | IP Address | Subnet / Mask | Memory Allocation | Purpose |
@@ -104,9 +94,14 @@ Take clean baseline recovery snapshots across all nodes before executing tests o
 Cross-node connectivity and routing tests were performed from the **Kali Linux** workstation (10.0.0.2) across the target ecosystem.
 
 All systems passed the test  
-![][image1]  
+<img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/a9ef2fb1-aee5-4a14-bc88-0fd37a6846c2" />
+<img width="1920" height="786" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/8def83c8-326b-4db8-b859-5effeccf0bbf" />
+<img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/8d386402-15de-4549-9f10-d68786a86fd1" />
+
+
 ![][image2]  
 ![][image3]
+<img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/6d0fa24b-8cb4-4220-bcec-bd2246e053c2" />
 
 ## 
 
