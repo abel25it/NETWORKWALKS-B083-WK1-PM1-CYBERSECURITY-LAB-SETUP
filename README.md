@@ -113,9 +113,8 @@ All systems passed the test
 ## **Troubleshooting Log**
 
 * **DNS Routing Failure Post-Static Configuration**
-
-**Symptom:** Loss of internet connection on Kali after applying manual interface settings.  
-**Resolution:** Executed sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0 and reset the network daemon.
+  **Symptom:** Loss of internet connection on Kali after applying manual interface settings.
+  **Resolution:** Executed sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0 and reset the network daemon.
 
 * **Ping Request Timeouts on Windows Target Nodes**  
   **Symptom:** ICMP ping tests from Kali (10.0.0.2) to Windows 10/11/Server targets timed out, despite valid IP configurations.  
